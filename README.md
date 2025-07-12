@@ -5,3 +5,7 @@ Informações para desenvolver projetos com React Native sem o Expo
 
 npx react-native@0.72.1 init meuProjeto --version 0.72.1
 
+#Rodando o projeto
+
+npm start
+
